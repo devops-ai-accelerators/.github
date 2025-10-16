@@ -6,9 +6,49 @@ This suite delivers intelligent automation, agentic RCA, and operational clarity
 
 ---
 
+# 🧠 AI-Powered DevOps Suite Overview
+
+## 📌 Executive Summary
+
+**Vision**: Modular AI-powered accelerators for proactive, intelligent DevOps  
+**Scope**: Pipeline generation, RCA, config validation, repo management  
+**Impact**: Speeds up delivery, reduces toil, and enhances governance across 25+ teams
+
+---
+
+## 🚀 Suite Components
+
+| Accelerator                          | Purpose                                 | AI Capability                  | Phase           | DevOps Area         | DevOps Impact                          |
+|-------------------------------------|-----------------------------------------|--------------------------------|------------------|----------------------|----------------------------------------|
+| **AI EKS MONITORING & RCA**         | RCA for EKS pods                        | AI-based RCA bot               | Monitoring       | Testing              | Improves troubleshooting               |
+| **AI POWERED PIPELINE GENERATE**    | Auto-generate pipeline scaffolding      | LLM-based code generation      | Build/Deploy     | Build/Deploy         | Reduces build failures                |
+| **AI GITHUBACTIONS BUILD RCA**      | RCA for GitHub Actions failures         | Semantic-based RCA             | Build/Deploy     | Build/Deploy         | Reduces build failures                |
+| **AI GITPUSH VALIDATE**             | Git push pre-validation                 | Pre-trained AI checks          | Source Control   | Source Control       | Improves governance enforcement       |
+| **AI CONFIG BOT**                   | Config validation                       | ML-based anomaly detection     | Security/Compliance | Security/Compliance | Improves governance enforcement       |
+| **AI REPO MIGRATE**                 | Terraform migration insights            | AI-enabled repo insights       | Testing          | Testing              | Enables seamless transitions          |
+| **AI TERRAFORM ANALYTICS**         | Terraform analytics                     | AI-based analytics             | Testing          | Testing              | Improves compliance and governance    |
+| **AI JIRA PR VALIDATION**          | Jira linkage validation                 | AI-based mapping               | ITSM Governance  | Audit-Readiness      | Improves audit-readiness              |
+
+---
+
+## 🛠️ How to Use
+
+1. Clone the suite repository and navigate to the desired accelerator module.
+2. Follow the module-specific onboarding guide (`/docs/onboarding.md`) for setup and usage.
+3. Customize config files and annotations as needed for your environment.
+4. Integrate with existing CI/CD pipelines or platform governance workflows.
+
+---
+
+## 📈 Impact Metrics
+
+- ✅ Reduced build failures by up to **40%**
+- 🔍 RCA resolution time decreased by **
+  
 ## 🧠 Architecture Overview
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/992049cf-7699-47ef-9323-b440ac964db7" />
+<img width="872" height="1300" alt="image" src="https://github.com/user-attachments/assets/800f4919-9dac-4dc5-a3ba-ddf0625f40f2" />
+
 
 
 ### Core Pillars:
