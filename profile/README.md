@@ -1,4 +1,4 @@
-# 🚀 DevOps Accelerator Suite
+                                     # 🚀 DevOps Accelerator Suite
 
 Welcome to the **DevOps Accelerator Suite** — a modular, AI-powered ecosystem engineered for DevOps, SRE, and platform governance across regulated industries.
 
@@ -6,13 +6,11 @@ This suite delivers intelligent automation, agentic RCA, and operational clarity
 
 ---
 
-# 🧠 AI-Powered DevOps Suite Overview
-
 ## 📌 Executive Summary
 
-**Vision**: Modular AI-powered accelerators for proactive, intelligent DevOps  
-**Scope**: Pipeline generation, RCA, config validation, repo management  
-**Impact**: Speeds up delivery, reduces toil, and enhances governance across 25+ teams
+      **Vision**: Modular AI-powered accelerators for proactive, intelligent DevOps  
+      **Scope**: Pipeline generation, RCA, config validation, repo management  
+      **Impact**: Speeds up delivery, reduces toil, and enhances governance across 25+ teams
 
 ---
 
